@@ -122,7 +122,7 @@ These help ensure strict type-checking, validation, and structured data across A
 ## 🔗 API Base URL
 
 > 📍 The deployed backend is accessible at:  
-`[https://your-railway-url.up.railway.app](https://hrone-ecommerce-backend-x7ri.onrender.com/)`
+`https://hrone-ecommerce-backend-x7ri.onrender.com/`
 
 All endpoints are relative to this root.
 
