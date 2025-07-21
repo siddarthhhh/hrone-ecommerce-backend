@@ -21,7 +21,7 @@ It includes complete product and order management APIs with strict adherence to 
 
 ##  Development Workflow
 
-### 1. 📄 Planned the Core Features from the Task PDF
+### 1. Planned the Core Features from the Task PDF
 I began by analyzing the problem statement and broke it into two core parts:
 - **Products API**
 - **Orders API**
@@ -118,5 +118,12 @@ These help ensure strict type-checking, validation, and structured data across A
 - **Uvicorn** (ASGI server)
 
 ---
+
+## 🔗 API Base URL
+
+> 📍 The deployed backend is accessible at:  
+`[https://your-railway-url.up.railway.app](https://hrone-ecommerce-backend-x7ri.onrender.com/)`
+
+All endpoints are relative to this root.
 
 
